@@ -49,3 +49,14 @@
     border:#ffff;
     border-radius: 0.5rem;
 }
+.photo img{
+    height: 40vmin;
+    width: 35vmin; 
+    border:#ffff;
+    border-radius: 0.5rem;
+    transition: transform .2s;
+}
+.photo img:hover {
+    transform:scale(1.5);
+
+}
