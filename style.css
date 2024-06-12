@@ -7,8 +7,8 @@
 .mainpage{
     margin-left: 8%;
     margin-top: 15%;
-    height: 150vmin; 
-    width: 150vmin; 
+    height: 100vmin; 
+    width: 100vmin; 
 }
 .mainpage h1{
     font-size: 350%;
@@ -35,7 +35,7 @@
     width: 50vmin;
     height: 50vmin;
     position:absolute;
-    bottom: 0;
+    margin-top:10px;
     top: 180px;
     right: 80px                                             
 }
