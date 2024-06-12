@@ -16,7 +16,6 @@
     margin-bottom: 20px;
     height: 10vmin; 
     width: 80vmin; 
-    bottom:0;
 }
 .mainpage a{
     background: #212121;
@@ -29,13 +28,12 @@
     border-radius: 5px;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     height: 3vmin; 
-    top:0;
 }
 .mainpage img{
     width: 50vmin;
     height: 50vmin;
-    position:absolute;
-    margin-top:10px;
+ 
+    bottom: 0;
     top: 180px;
     right: 80px                                             
 }
