@@ -10,7 +10,9 @@
     margin-left: 8%;
     margin-top: 15%;
     height: 40vh;
-    width: 40vh;
+    width: 80vh;
+    display:flex;
+    flex-wrap: wrap;
 }
 .mainpage h1{
     font-size: 350%;
@@ -32,7 +34,7 @@
     width: 25vmin; 
 
 }
-.images img{
+.mainpage img{
     width: 40%;
     height: 70%;
     position:absolute;
@@ -40,7 +42,6 @@
     top: 50px;
     right: 80px;
     width: 60vmin; 
-
 }
 
 .layout {
